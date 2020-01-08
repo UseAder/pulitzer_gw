@@ -1,0 +1,1317 @@
+.imgbigout {
+  display: block;
+  overflow: hidden;
+}
+
+.imgbig {
+  -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  -ms-transition: all .3s ease;
+  -o-transition: all .3s ease;
+  transition: all .3s ease;
+  display: block !important;
+}
+.imgbig:hover {
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+}
+.home-School {
+  margin-top: 1.31rem;
+  }
+  .home-School .title{
+  font-size:0.26rem;
+  font-family:PingFangSC-Semibold,PingFang SC;
+  font-weight:600;
+  color:rgba(102,102,102,1);
+  line-height:0.37rem;
+  margin-bottom: 0.31rem;
+  }
+  .home-School .desc{
+      width:8.65rem;
+  height:0.84rem;
+  font-size:0.17rem;
+  font-family:PingFangSC-Regular,PingFang SC;
+  font-weight:400;
+  color:rgba(102,102,102,1);
+  line-height:0.42rem;
+      }
+      .home-eq{
+          position: relative;
+      }
+      .home-eq-header{
+          height:3.39rem;
+          background:rgba(232,71,114,1); text-align: center;position: relative;
+      }
+      .home-eq-header .title-bg{
+      height:1.07rem;
+      font-size:0.76rem;
+      font-family:PingFangSC-Medium,PingFang SC;
+      font-weight:500;padding-top: 0.38rem;
+      color:rgba(255,255,255,15%);
+      line-height:1.07rem;
+      }
+  .home-eq-header .title{
+      padding-top: 1.06rem;
+      height:0.37rem;
+      font-size:0.26rem;
+      font-family:PingFangSC-Semibold,PingFang SC;
+      font-weight:600;
+      color:rgba(255,255,255,1);
+      line-height:0.37rem;
+      letter-spacing:0.01rem;
+  }
+  .home-eq-header .title::after{display: block; content:"";width: 0.12rem;height: 0.06rem;
+      
+      position: absolute;
+      left: 0;
+      margin: auto;
+      background: url(https://school-oss-fuwu.oss-cn-beijing.aliyuncs.com/uploads/admin/default/images/title1.png) no-repeat;
+      right: 0;
+      background-size: 100%;}
+  .home-eq-header .desc{
+      margin: auto ;
+      margin-top: 0.43rem;
+      width:9.31rem;
+      height:0.92rem;
+      font-size:0.19rem;
+      font-family:PingFangSC-Regular,PingFang SC;
+      font-weight:400;
+      color:rgba(255,255,255,1);
+      line-height:0.46rem;
+      text-align: left;
+  
+  }
+  
+  .J-pa{position: absolute;top: 0;left: 0;right: 0;bottom: 0;margin: auto;z-index: 1; }
+  
+  .home-eq-fk{
+      margin: 0 auto;
+      width:0.50rem;
+      height:0.50rem;
+      background:rgba(2,165,227,1);
+      border:0.07rem solid rgba(255,255,255,1);
+      top: 3.08rem;
+  transform:rotate(45deg);
+  -ms-transform:rotate(45deg); 	/* IE 9 */
+  -moz-transform:rotate(45deg); 	/* Firefox */
+  -webkit-transform:rotate(45deg); /* Safari 鍜� Chrome */
+  -o-transform:rotate(45deg); 	/* Opera */
+  }
+  .home-hz {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+  }
+  .home-eq-content li {
+  width: 2.20rem;  padding-bottom: 0.70rem;
+  }
+  .home-eq-content li img{
+      width: 1.00rem;
+      margin: auto;
+  height: 1.00rem;}
+  .home-eq-content {
+      padding-top:1.36rem ;  padding-bottom:1.6rem ;
+      text-align: center;
+  }
+  .home-eq-content .title{
+      padding-top: 0.20rem;
+      height:0.19rem;
+      font-size:0.22rem;
+      font-family:PingFangSC-Regular,PingFang SC;
+      font-weight:400;
+      color:rgba(233,82,66,1);
+      line-height:0.16rem;
+  }
+  .home-eq-content .desc{
+      height:0.32rem;
+      font-size:0.15rem;
+      font-family:PingFangSC-Regular,PingFang SC;
+      font-weight:400;
+      color:#666666;
+      line-height:0.26rem;
+  }
+  
+  
+  /*  */
+  .home-class-features li{
+      width: 3.30rem;
+  }
+  
+  /*  */
+  .home-title-header{
+      text-align: center;
+      height:1.07rem;
+      position: relative;
+  font-size:0.76rem;
+  font-family:PingFangSC-Medium,PingFang SC;
+  color:rgba(119,119,119,0.15);
+  line-height:1.07rem;
+  }
+  .home-title-header .title-bg{
+      font-weight:500;
+  
+  color:rgba(119,119,119,0.15);
+  }
+  .home-title-header .title{
+      padding-top:0.70rem;
+      height:0.37rem;
+      position: relative;
+      font-size:0.26rem;
+      font-family:PingFangSC-Semibold,PingFang SC;
+      font-weight:600;
+      color:rgba(0,66,160,1);
+      line-height:0.37rem;
+      letter-spacing:0.02rem;
+  }
+  
+  .home-title-header .title::after{display: block; content:"";width: 0.12rem;height: 0.06rem;
+      
+      position: absolute;
+      left: 0;
+      margin: auto;
+      background: url(https://school-oss-fuwu.oss-cn-beijing.aliyuncs.com/uploads/admin/default/images/title2.png) no-repeat;
+      right: 0;
+      background-size: 100%;}
+  
+  /*  */
+  .home-activity{
+      position: relative;height:8.19rem;
+  }
+  .home-activity .home-activity-btn{
+    position: relative;
+    top: -0.52rem;
+  }
+  .home-activity .home-activity-btn .btn{
+    height: 0.38rem;
+    width: 0.38rem;margin: 0 0.2rem;
+    border-radius: 50%;
+    float: right;
+  }
+  .hiSlider{
+    background: #fff;
+    height: 6.82rem;
+    /* width: 10.08rem; */
+  }
+  .hiSlider2{
+    background: #fff;
+    height: 4.09rem;
+    width: 10.08rem;
+  }
+  .home-activihome-activity-uly-logo{
+    height: 4.09rem;
+    width: 4.09rem;
+  }
+  .home-activity .home-title-header .title-bg{
+      color:rgba(255,255,255,0.15);margin-top: 0.42rem;
+   }.home-activity .home-title-header .title{
+      color:#fff
+   }
+  .home-activity-logo{
+      width: 4.09rem;height:4.09rem ;background: #fff;
+  }
+  .home-activity .item-list{
+      background: transparent;
+  }
+  .home-activity .item .time{
+      padding-top: 0.50rem;
+      height:0.25rem;
+      font-size:0.18rem;
+      font-family:PingFangSC-Regular,PingFang SC;
+      font-weight:400;
+      color:rgba(0,0,0,1);
+      line-height:0.25rem;
+  }
+  .home-activity .item .title{
+      padding-top: 0.45rem;
+      height:0.33rem;
+  font-size:0.24rem;
+  font-family:PingFangSC-Regular,PingFang SC;
+  font-weight:400;
+  color:rgba(0,0,0,1);
+  line-height:0.33rem;
+  }
+  
+  .home-activity .item .desc{
+      padding-top: 0.52rem;
+      width:4.68rem;
+  height:0.44rem;
+  font-size:0.16rem;
+  font-family:PingFangSC-Regular,PingFang SC;
+  font-weight:400;
+  color:rgba(136,136,136,1);
+  line-height:0.22rem;
+  }
+  
+  /* footer */
+  .home-footer .logo{
+      width: 2.35rem;height: 0.62rem;margin-bottom: 0.20rem;
+  }
+  .home-footer a{
+      color: #A1A1A1;
+  }
+  .home-footer{
+      background: #242424;padding-top: 0.60rem;color: #A1A1A1;height: 2.90rem;
+  }
+  .home-footer .item-list{
+      display: flex;justify-content: space-between;height: 2.90rem;
+  }
+  .home-footer .footer-left{
+      width:2.71rem;
+      height:1.10rem;
+      font-size:0.14rem;
+      font-family:PingFangSC-Medium,PingFang SC;
+      font-weight:500;
+      color:rgba(161,161,161,1);
+      line-height:0.28rem;
+  }
+  .home-footer .footer-left{
+      height:1.10rem;
+      font-size:0.14rem;
+      font-family:PingFangSC-Medium,PingFang SC;
+      font-weight:500;
+      color:rgba(161,161,161,1);
+      line-height:0.29rem;
+  }
+  .home-footer .footer-center{
+      margin-top: -0.10rem;
+  display: flex;
+  text-align: center;
+      font-size:0.14rem;
+      font-family:PingFangSC-Medium,PingFang SC;
+      font-weight:500;
+      color:rgba(161,161,161,1);
+      line-height:0.36rem;
+  }
+  .home-footer .footer-center .footer-ul{
+      margin: 0 0.22rem;
+  }
+  .home-footer .footer-center .footer-ul li:first-child{
+      text-align: center;
+      margin-bottom: 0.06rem;
+      height:0.55rem;
+      font-size:0.24rem;
+      border-bottom:1px solid #5C5A5A;
+      font-family:PingFangSC-Medium,PingFang SC;
+      font-weight:500;
+      color:rgba(161,161,161,1);
+      line-height:0.55rem;
+  }
+  .home-footer .footer-right{
+      width:3.19rem;
+  height:1.70rem;
+  font-size:0.14rem;
+  font-family:PingFangSC-Medium,PingFang SC;
+  font-weight:500;
+  color:rgba(161,161,161,1);
+  line-height:0.30rem;
+  }
+  
+  
+  /*  
+  **
+  **
+  */
+  .mian_modular{
+      position: relative;
+    }
+    .J-ti{
+      text-indent:2em
+    }
+    .J-ti1{
+      text-indent:1em
+    }
+    .J-wh{
+        width: 100%;height: 100%;
+    }
+    .J-pr{
+      position: relative;
+    }
+    .J-flex{
+      display: flex;
+    }
+    .J-flexAW{
+      display: flex;justify-content: space-between;flex-wrap: wrap;
+    }
+    .J-flexAWC{
+      display: flex;justify-content: space-between;flex-wrap: wrap;align-items: center;
+    }
+    .J-flexFCC{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    .J-flexCC{
+      display: flex;justify-content: center;align-items: center;flex-wrap: wrap;
+    
+    }
+    .J-flexC{
+      display: flex;justify-content: center;
+    }
+    .main_modular_hd {
+        text-align: center;height: 1.65rem;
+    }
+    .main_modular_hd .desc{
+        padding-top: 1.00rem;
+        height:0.28rem;
+        font-size:0.20rem;
+        font-family:PingFangSC-Regular,PingFang SC;
+        font-weight:400;
+        color:rgba(119,119,119,1);
+        line-height:0.28rem;
+    }
+    .main_modular_hd .title{
+        height:0.37rem;
+        font-size:0.26rem;
+        font-family:PingFangSC-Semibold,PingFang SC;
+        font-weight:600;
+        color:rgba(0,66,160,1);
+        line-height:0.37rem;
+    }
+    .main_modular_hd .title{
+        height:0.37rem;
+        font-size:0.26rem;
+        font-family:PingFangSC-Semibold,PingFang SC;
+        font-weight:600;
+        color:rgba(0,66,160,1);
+        line-height:0.37rem;
+    }
+    /*  */
+    /* .mian_modular_introduce .main_modular_bd .item {
+     height: 31.6rem;padding: 5.5rem 0;
+    }
+    .mian_modular_introduce .main_modular_bd .item{
+        display: flex;justify-content: space-between;
+    }
+    .mian_modular_introduce .main_modular_bd .item .item_hd{
+    width: 45.0rem;height: 100%;
+    }
+    
+    .mian_modular_introduce .main_modular_bd .item .title{
+        width:60.3rem;
+        height:5.6rem;
+        padding-top: 10.5rem;
+        font-size:2.0rem;
+        font-family:PingFangSC-Medium,PingFang SC;
+        font-weight:500;
+        color:rgba(68,68,68,1);
+        line-height:2.8rem;
+    }
+    .mian_modular_introduce .main_modular_bd .item .desc{
+        width:54.9rem;
+        padding-top: 2.0rem;
+    
+        height:6.6rem;
+        font-size:1.6rem;
+        font-family:PingFangSC-Medium,PingFang SC;
+        font-weight:500;
+        color:rgba(120,120,120,1);
+        line-height:2.2rem;
+    } */
+    
+    
+      /* 
+      **
+      **璇剧▼浠嬬粛
+      **
+      */
+      .mian_modular_course_features{
+        padding-top: 1.2rem;
+      }
+      .mian_modular_course_features .main_modular_bd{
+        padding-top: 1.12rem;
+      }
+      .mian_modular_course_features .main_modular_bd .item{
+        height:3.66rem;
+        background:rgba(237,241,245,1);
+       }
+      .mian_modular_course_features .main_modular_bd .item:nth-child(2n){
+       background: #ffffff;
+      }
+      .mian_modular_course_features .main_modular_bd .item:nth-child(2n) .content{
+        padding-left: 1.95rem;margin:0 ;width: 6.49rem;
+       }
+       .mian_modular_course_features .main_modular_bd .item:nth-child(2n) .content .logo{
+        left: 1.17rem;
+        top: -1.01rem;
+    
+       }
+      .mian_modular_course_features .main_modular_bd .logo{
+        width: 4.32rem;height: 2.88rem;padding-top: 0.40rem;
+      }
+      .mian_modular_course_features .main_modular_bd .content {
+        width: 5.58rem;box-sizing: border-box;
+      }
+      .mian_modular_course_features .main_modular_bd .content .logo{
+        position: absolute;
+        left: -0.8rem;
+        top: -1.01rem;
+        width: 1.09rem;
+        height: 1.00rem;
+      }
+    
+    
+      .mian_modular_course_features .main_modular_bd .content .title{
+        font-size:0.20rem;
+        font-family:PingFangSC-Regular,PingFang SC;
+        font-weight:400;
+        color:rgba(68,68,68,1);
+        line-height:0.30rem;
+        letter-spacing:0.01rem;
+      }
+      
+      .mian_modular_course_features .main_modular_bd .content .title .indent {
+        text-indent:0.8em;
+      
+      }
+      .mian_modular_course_features .main_modular_bd .content .desc{
+        font-size:0.14rem;
+        font-family:PingFangSC-Regular,PingFang SC;
+        font-weight:400;
+        color:rgba(153,153,153,1);
+        line-height:0.15rem;
+      }
+    
+    /* 璇剧▼鐗圭偣 */
+    .mian_modular_characteristic{
+      padding-top: 0.80rem;
+    }
+    .mian_modular_characteristic .main_modular_bd {
+      padding-top:0.40rem;
+    }
+    .mian_modular_characteristic .main_modular_bd .item{
+      width:5.31rem;margin: 0 0.28rem;margin-top: 0.69rem;
+      height:4.93rem;
+      background:rgba(255,255,255,1);
+      border:.01rem solid rgba(151,151,151,1);
+    }
+    .mian_modular_characteristic .main_modular_bd .item .logo{
+      width:5.31rem;
+      height:3.11rem;
+     
+    }
+    .mian_modular_characteristic .main_modular_bd .item .content{
+     height: 1.82rem;
+     width:5.31rem;
+     font-size:0.20rem;
+     font-family:PingFangSC-Regular,PingFang SC;
+     font-weight:400;
+     color:rgba(51,51,51,1);
+     line-height:0.40rem;
+    }
+      /* 鐝骇鐗硅壊 */
+      .mian_modular_classCharacteristic   {
+        padding-top: 0.82rem;   padding-bottom: 1.5rem;
+       }
+       .mian_modular_classCharacteristic  .main_modular_bd{
+       }
+       .mian_modular_classCharacteristic  .main_modular_bd .xian{
+        width: 0.04rem;
+        height: 12.9rem;
+        top: 0rem;
+        background: rgba(235,75,116,1);
+       }
+      .mian_modular_classCharacteristic  .main_modular_bd .item-list {
+        margin-top: 1.1rem;
+      }
+      .mian_modular_classCharacteristic  .main_modular_bd .item-list .logo{
+        width: 5.56rem;
+        height: 3.44rem;
+        background: rgba(201,202,200,0.5);
+        margin-right: 0.87rem;margin-top: 0.11rem;
+      }
+      .mian_modular_classCharacteristic  .main_modular_bd .item-list .logo img{
+        margin-top: -0.11rem;
+        margin-left: -0.11rem;
+      }
+    
+       
+      .mian_modular_classCharacteristic  .main_modular_bd .item-list .logo .logo-xian {
+        width: 0.26rem;
+        height: 0.18rem;
+        right: -6.6rem;
+        top: 0.4rem;
+        bottom: auto;
+      }
+      .mian_modular_classCharacteristic  .main_modular_bd .item-list.active .logo .logo-xian {
+    
+        left: -13.15rem;
+      
+      }
+    
+      .mian_modular_classCharacteristic  .main_modular_bd .item-list.active .logo img {
+        margin-left: 0.11rem;
+      }
+      .mian_modular_classCharacteristic  .main_modular_bd .item-list.active .logo {
+        margin-left: 0.80rem;margin-right: 0;
+      }
+      .mian_modular_classCharacteristic  .main_modular_bd .item-list.active .item_desc{
+        text-align: right;
+      }
+      .mian_modular_classCharacteristic  .main_modular_bd .item-list .item_desc .name{
+      height:0.40rem;
+      font-size:0.28rem;
+      font-family:PingFangSC-Semibold,PingFang SC;
+      font-weight:600;
+      color:rgba(0,173,230,1);
+      line-height:0.40rem;
+      }
+      .mian_modular_classCharacteristic  .main_modular_bd .item-list .item_desc .title{
+        height:0.33rem;
+        font-size:0.24rem;
+        font-family:PingFangSC-Regular,PingFang SC;
+        font-weight:400;
+        color:rgba(0,173,230,1);
+        line-height:0.33rem;
+        letter-spacing:0.01rem;
+        }
+      .mian_modular_classCharacteristic  .main_modular_bd .item-list .item_desc .item_desc_logo{
+        margin: 0;padding: 0;    padding-top: 0.10rem;
+    background: #fff;padding-left: 0.14rem;
+        padding-bottom: 0.28rem;
+        height:0.12rem;
+        width: 0.12rem;
+        }
+        .mian_modular_classCharacteristic  .main_modular_bd .item-list .item_desc .desc{
+          height:0.20rem;
+          font-size:0.14rem;
+          padding: 0.08rem 0;
+          font-family:PingFangSC-Semibold,PingFang SC;
+          font-weight:600;
+          color:rgba(51,51,51,1);
+          line-height:0.20rem;
+        }
+        .mian_modular_classCharacteristic  .main_modular_bd .item-list .item_desc .text{
+          width:5.44rem;text-indent:2.5em;
+          font-size:0.14rem;
+          font-family:PingFangSC-Regular,PingFang SC;
+          font-weight:400;
+          color:rgba(102,102,102,1);
+          line-height:0.30rem;
+        }
+      /* .mian_modular_classCharacteristic  .main_modular_bd .item-list:nth-child(2n) .item_desc {
+        margin-left: 8.3rem;
+      }  
+     
+      .mian_modular_classCharacteristic  .main_modular_bd .item-list .item_desc .title{
+        padding-top: 3.7rem;
+        width:6.0rem;
+        height:2.8rem;
+        font-size:2.0rem;
+        font-family:PingFangSC-Medium,PingFang SC;
+        font-weight:500;
+        color:rgba(41,177,181,1);
+        line-height:2.8rem;
+      }
+      .mian_modular_classCharacteristic  .main_modular_bd .item-list .item_desc .desc{
+        padding-top: 1.9rem;padding-bottom: 3.0rem;
+      } */
+    
+    
+    
+      /* 
+      **
+      **瀛︿範浣撶郴
+      **
+      */
+    
+      .mian_modular_Eight_Next {
+        text-align: center;
+      }
+      .mian_modular_Eight_Next .banner{
+        height:4.19rem;}
+      .mian_modular_Eight_Next .logo{
+        width: 1.51rem;height: 0.86rem;margin: 0 auto;padding-top: 0.43rem;
+      }
+      .mian_modular_Eight_Next .title{
+        padding-top: 0.34rem;
+        height:0.50rem;
+    font-size:0.36rem;
+    font-family:PingFangSC-Semibold,PingFang SC;
+    font-weight:600;
+    color:rgba(255,255,255,1);
+    line-height:0.50rem;
+      }
+      .mian_modular_Eight_Next .desc{
+        width:10.31rem;
+        height:0.86rem;
+        margin: auto;
+        font-size:0.20rem;
+        font-family:PingFangSC-Regular,PingFang SC;
+        font-weight:400;
+        color:rgba(255,255,255,1);
+        line-height:0.30rem;
+        margin-top: 0.47rem;
+      }
+      /* 鏍稿績浠峰€� */
+      .mian_modular_core_value{
+        background: #EDF1F5
+      }
+      .mian_modular_core_value .main_modular_bd{
+        margin-top: 0.97rem;
+        position: relative;
+        height: 6.65rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+      .mian_modular_core_value .main_modular_bd .logo{
+        width: 5.88rem;height: 5.88rem;margin: auto;    border-radius: 50%;
+      }
+      .mian_modular_core_value .main_modular_bd .item .view{
+        width:2.58rem;
+        height:0.90rem;
+        background:rgba(255,255,255,1);
+        text-align: center;
+      }
+      .mian_modular_core_value .main_modular_bd .item .view .title{
+        padding-top: 0.22rem;
+        font-size:0.18rem;
+        font-family:PingFangSC-Semibold,PingFang SC;
+        font-weight:600;
+        color:rgba(167,65,143,1);
+        line-height:0.25rem;
+      }
+      .mian_modular_core_value .main_modular_bd .item .view .desc{
+        height:0.25rem;
+        font-size: 0.12rem;
+        font-family:PingFangSC-Semibold,PingFang SC;
+        font-weight:600;
+        color:#999999;
+        line-height:0.25rem;
+      }
+      /* 鍗佸ぇ浼樺娍 */
+      .mian_modular_ten_advantages .main_modular_bd .title{
+        width:5.80rem;text-align: center;
+        height:0.84rem;
+        font-size:0.60rem;
+        font-family:PingFangSC-Semibold,PingFang SC;
+        font-weight:600;
+        color:rgba(255,255,255,1);
+        line-height:1.70rem;
+        height:1.70rem;
+        background:rgba(5,66,154,1);
+      }
+      /* .. */
+      .mian_modular_ten_advantages .main_modular_bd .desc{
+        text-align: center;
+        height: 2.50rem;margin-bottom: 0.40rem;
+        font-size:0.18rem;background:rgba(237,241,245,1);
+    
+        display: flex;
+        flex-direction: column;
+        justify-content: center;;
+        font-family:PingFangSC-Semibold,PingFang SC;
+        font-weight:600;
+        color:rgba(51,51,51,1);
+        line-height:0.25rem;
+      }
+    
+      
+      /* 
+      **
+      **鏈烘瀯浠嬬粛
+      **
+      */
+    
+      .mian_modular_founder_intproductiou .intproductiou_banner{
+        height:8.51rem;
+        background:rgba(0,165,227,1);
+      }
+      
+      .mian_modular_founder_intproductiou .intproductiou_banner_footer{
+        height:1.50rem;
+        background:rgba(245,173,2,1);
+      }
+      .mian_modular_founder_intproductiou .main_modular_hd .logo{
+        width: 4.95rem;
+        margin-top: 0.4rem;    margin-right: 0.4rem;
+      }
+      .mian_modular_founder_intproductiou .main_modular_bd {
+    padding-top: 0.70rem;
+      }
+      .mian_modular_founder_intproductiou .main_modular_bd .logo{
+        font-size:0.48rem;
+        font-family:PingFangSC-Semibold,PingFang SC;
+        font-weight:600;
+        color:rgba(255,255,255,1);
+        line-height:0.57rem;
+      }
+      .mian_modular_founder_intproductiou .main_modular_bd .title{
+        font-size:0.48rem;
+        font-family:PingFangSC-Semibold,PingFang SC;
+        font-weight:600;
+        color:rgba(255,255,255,1);
+        line-height:0.57rem;
+      }
+    .mian_modular_founder_intproductiou .main_modular_bd .title .logo{
+      width: 0.41rem;height: 0.41rem;padding-left: 0.80rem;
+    }
+    
+    .mian_modular_founder_intproductiou .main_modular_bd .name{
+        height:0.50rem;
+        font-size:0.36rem;
+        font-family:PingFangSC-Semibold,PingFang SC;
+        font-weight:600;
+        color:rgba(255,255,255,1);
+        line-height:0.50rem;
+      }
+      .mian_modular_founder_intproductiou .main_modular_bd .content{
+        padding-top: 0.37rem;width:6.01rem;
+        font-size:0.17rem;
+        font-family:PingFangSC-Regular,PingFang SC;
+        font-weight:400;
+        color:rgba(255,255,255,1);
+        line-height:0.34rem;
+      }
+      /* 鏈烘瀯浠嬬粛 */
+      .mian_modular_gency_presentation .main_modular_bd{
+        margin-right: 0.57rem;    padding-top: 0.87rem;
+    
+      }
+      .mian_modular_gency_presentation .main_modular_bd .title{
+        font-size:0.48rem;
+        font-family:PingFangSC-Semibold,PingFang SC;
+        font-weight:600;
+        color:rgba(0,66,160,1);
+        line-height:0.57rem;
+      }
+      .mian_modular_gency_presentation .main_modular_bd .name{
+        height:0.37rem;
+        font-size:0.26rem;
+        font-family:PingFangSC-Semibold,PingFang SC;
+        font-weight:600;
+        color:rgba(245,173,1,1);
+        line-height:0.37rem;
+      }
+      .mian_modular_gency_presentation .main_modular_bd .content{
+      padding-top: 0.27rem;
+      }
+      .mian_modular_gency_presentation .main_modular_bd .content .desc{
+        width:5.36rem;
+        font-size:0.18rem;
+        font-family:PingFangSC-Regular,PingFang SC;
+        font-weight:400;
+        color:rgba(51,51,51,1);
+        line-height:0.41rem;
+      }
+      .mian_modular_gency_presentation .main_modular_hd .logo{
+       width:5.98rem; height:4.27rem;margin-top: 1.56rem;
+      }
+      /* 甯堣祫鍔涢噺 */
+      .mian_modular_faculty{
+        padding-top: 2.3rem;
+      }
+      .mian_modular_faculty .item{
+        float: left;    width: 25%;
+        padding: 0 1.55%;
+        box-sizing: border-box;
+      }
+      .mian_modular_faculty .item .logo{
+        width: 100%;height: 3.00rem;
+      }
+     
+      .mian_modular_faculty .item .content{
+        width: 100%;height: 2.00rem;text-align: center;
+      }
+      .mian_modular_faculty .item .title{
+        padding-top: 0.22rem;
+        padding-bottom: 0.19rem;
+    
+        height:0.28rem;
+        font-size:0.20rem;
+        font-family:PingFangSC-Medium,PingFang SC;
+        font-weight:500;
+        color:rgba(0,66,160,1);
+        line-height:0.28rem;
+      }
+      .mian_modular_faculty .item.gray .logo{
+        -webkit-filter: grayscale(100%);
+        -moz-filter: grayscale(100%);
+        -ms-filter: grayscale(100%);
+        -o-filter: grayscale(100%);
+        
+        filter: grayscale(100%);
+      
+        filter: gray;
+      }
+        .mian_modular_faculty .item .title{
+        padding-top: 0.22rem;
+        padding-bottom: 0.19rem;
+    
+        height:0.28rem;
+        font-size:0.20rem;
+        font-family:PingFangSC-Medium,PingFang SC;
+        font-weight:500;
+        color:rgba(0,66,160,1);
+        line-height:0.28rem;
+      }
+      .mian_modular_faculty .item.gray .title{
+        color:rgba(119,119,119,1);
+      }
+      .mian_modular_faculty .item .desc{
+        width:2.40rem;
+        font-size:0.16rem;
+        font-family:PingFangSC-Regular,PingFang SC;
+        font-weight:400;
+        color:rgba(119,119,119,1);
+        line-height:0.22rem;
+      }
+      .mian_modular_faculty .main_modular_bd{
+        padding-top: 0.82rem;
+    
+      }
+      .mian_modular_faculty .main_modular_fd{
+    
+        text-align: center;
+    height:0.37rem;
+    font-size: 0.20rem;
+    font-weight: 400;
+    color: rgba(0,0,0,1);
+    font-family:PingFangSC-Medium,PingFang SC;
+    line-height:0.37rem;
+    letter-spacing:0.02rem;
+    padding-bottom: 1.2rem;
+      }
+      /* 鍚堜綔濯掍綋 */
+      .mian_modular_media .main_modular_bd{
+        margin-top: 0.98rem;    margin-bottom: 2.24rem;
+    
+      }
+      .mian_modular_media .item{
+        width:2.70rem;
+        height:1.72rem;
+        background:rgba(255,255,255,1);
+        border-radius:0.24rem;overflow: hidden;
+        border:.01rem solid rgba(151,151,151,1);    margin: 0 0.10rem;
+    
+      }
+    
+      .mian_modular_media .item:nth-child(1) .logo{
+       width: 1.92rem;height: 0.94rem;
+      }
+      .mian_modular_media .item:nth-child(2) .logo{
+        width: 1.13rem;height: 1.13rem;
+       }
+       .mian_modular_media .item:nth-child(3) .logo{
+        width: 1.44rem;height: 1.08rem;
+       }
+       .mian_modular_media .item:nth-child(4) {
+        border:.1rem solid #fff; 
+       }
+    /* 鏈烘瀯鐜 */
+    .mian_modular_suorroundings .main_modular_bd{
+      margin-top: 0.98rem;    margin-bottom: 1.31rem;
+    }
+    .mian_modular_suorroundings .main_modular_bd .item{ 
+      /* width: 4.08rem;height: 3.14rem;margin: 0.07rem; */
+    }
+    
+      
+      /* 
+      **
+      **鏈€鏂版椿鍔�
+      **
+      */
+      .mian_modular_latest_activities .main_modular_bd {
+        padding-top: 0.88rem;padding-bottom: 0.46rem;
+    
+      }
+      .mian_modular_latest_activities .main_modular_bd .item{
+        height: 3.45rem;width: 11.46rem;margin: auto;margin-bottom: 0.50rem;
+    
+      }
+    .mian_modular_latest_activities .main_modular_bd .item .logo{
+      width: 3.45rem;height: 3.45rem;margin-right: 0.50rem;box-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, 0.2);
+    }
+    
+    .mian_modular_latest_activities .main_modular_bd .item .content{
+      width: 6.60rem
+    }
+    .mian_modular_latest_activities .main_modular_bd .item .content .time{
+      height:0.25rem;
+    font-size:0.18rem;
+    font-family:PingFangSC-Regular,PingFang SC;
+    font-weight:400;
+    color:rgb(29, 24, 24);
+    line-height:0.25rem;
+    }
+    .mian_modular_latest_activities .main_modular_bd .item .content .title{
+      padding-top: 0.43rem;
+      height:0.33rem;
+      font-size:0.24rem;
+      font-family:PingFangSC-Regular,PingFang SC;
+      font-weight:400;
+      color:rgba(0,0,0,1);
+      line-height:0.33rem;
+      }
+      .mian_modular_latest_activities .main_modular_bd .item .content .desc{
+        padding-top: 0.34rem;
+        width:6.60rem;
+        font-size:0.16rem;padding-bottom: 0.8rem;
+        font-family:PingFangSC-Regular,PingFang SC;
+        font-weight:400;
+        color:rgba(136,136,136,1);
+        line-height:0.22rem;
+      }
+    
+    
+      .mian_modular_latest_activities   .main_modular_fd {
+        padding-bottom: 0.72rem;text-align: center;
+        height:0.28rem;
+        font-size:0.20rem;
+        font-family:PingFangSC-Regular,PingFang SC;
+        font-weight:400;
+        color:rgba(0,0,0,1);
+        line-height:0.28rem;
+    
+      }
+      /* 鑱旂郴鎴戜滑 */
+      .mian_modular_contactus{
+        padding-top: 0.97rem;padding-bottom: 0.67rem;
+      }
+      .mian_modular_contactus .main_modular_hd {
+        width:2.35rem;margin-right:1.92rem ;text-align: left;
+      }
+      .mian_modular_contactus .main_modular_hd .title{
+        font-size:0.48rem;
+        font-family:PingFangSC-Semibold,PingFang SC;
+        font-weight:600;
+        color:rgba(0,66,160,1);
+        line-height:0.57rem;
+        height:0.57rem;
+    
+      }
+      .mian_modular_contactus .main_modular_hd .desc{
+        padding: 0;
+        height:0.37rem;
+        font-size:0.26rem;
+        font-family:PingFangSC-Semibold,PingFang SC;
+        font-weight:600;
+        color:rgba(245,173,1,1);
+        line-height:0.37rem;
+      }
+      .mian_modular_contactus .main_modular_hd .desc{
+        height:0.37rem;
+        font-size:0.26rem;
+        font-family:PingFangSC-Semibold,PingFang SC;
+        font-weight:600;
+        color:rgba(245,173,1,1);
+        line-height:0.37rem;
+      }
+      .mian_modular_contactus .main_modular_bd_desc{
+        padding-bottom: 0.8rem;
+        width:7.73rem;
+        height:1.12rem;
+        font-size:0.20rem;
+        font-family:PingFangSC-Regular,PingFang SC;
+        font-weight:400;
+        color:rgba(55,55,55,1);
+        line-height:0.28rem;
+      }
+    
+      .mian_modular_contactus .main_modular_bd .item{
+        font-size:0.24rem;
+        padding-bottom: 0.67rem;
+        margin-top: 0.67rem;
+  width: 7.73rem;
+        font-family:PingFangSC-Semibold,PingFang SC;
+        font-weight:600;
+        color:rgba(51,51,51,1);
+        line-height:0.33rem;
+      }
+      .mian_modular_contactus .main_modular_bd .item .desc{
+          font-family:PingFangSC-Regular,PingFang SC;
+          font-weight:400;
+      }
+      .mian_modular_contactus .main_modular_bd  .logo{
+        width: 773px;
+        height:0rem;overflow: hidden;
+      }
+  
+      /* 
+      **
+      **鏈€鏂版椿鍔�
+      **
+      */
+      .details{
+        padding-top: 0.92rem;
+      }
+      .details-left{
+        width: 4.13rem;
+      }
+      .details-left .times{
+        height:0.28rem;
+        font-size:0.2rem;
+        font-family:PingFangSC-Regular,PingFang SC;
+        font-weight:400;
+        color:rgba(102,102,102,1);
+        line-height:0.28rem;
+      }
+      .details-left .desc{
+        height:0.2rem;
+        font-size:0.14rem;
+        font-family:PingFangSC-Regular,PingFang SC;
+        font-weight:400;
+        color:rgba(102,102,102,1);
+        line-height:0.3rem;
+      }
+      .details-right{
+        width:7.76rem;
+      }
+      .details-right .title{
+        padding-bottom: 0.33rem;
+        border-bottom: 0.01rem solid #CCCCCC;
+        height:0.42rem;
+        font-size:0.30rem;
+        font-family:PingFangSC-Regular,PingFang SC;
+        font-weight:400;
+        color:rgba(51,51,51,1);
+        line-height:0.42rem;
+      }
+      .details-right .content{
+        min-height: 5rem;
+        padding-top: 0.3rem;
+      }
+      .details-right .content p{
+       font-size: 0.16rem;    line-height: 0.40rem;
+      }
+      .details-right .content img{
+  height: auto;    }
+  
+  
+  .title-footer {
+    padding-top: 0.25rem;border-top: 0.01rem solid #ccc;padding-bottom: 1.72rem;
+  }
+  
+  .title-footer .logo-left {
+    width: 0.29rem;height: 0.32rem;
+  }
+  
+  .title-footer .logo-right  .btn{
+    width: 0.17rem;height: 0.32rem; cursor: pointer;
+  }
+  .title-footer .logo-right  .btn_center{
+    width: 0.26rem;height: 0.26rem;margin: 0 0.42rem;margin-top: 0.03rem; cursor: pointer;  
+  }
+  
+  
+  
+  /* 棣栭〉杞挱鍥� */
+  .home-activity .hiSlider-btn-prev, .home-activity .hiSlider-btn-next{
+    position: absolute;
+    z-index: 5;
+    top: 50%;
+    height: 0.38rem;
+      width: 0.38rem;
+    background: url(../hislider-left.png) no-repeat;
+    background-size: 100% 100%;
+    margin-top: -20%;
+    text-indent: -20rem;
+    overflow: hidden;
+    /* opacity: .6; */
+  }
+  
+  .home-activity  .hiSlider-btn-prev {
+    right: 1.03rem;
+  }
+  .home-activity .hiSlider-btn-next {
+    background: url(../hislider-right.png) no-repeat;    background-size: 100% 100%;
+
+
+    right: 0.25rem;
+    /* background-position: -30px 0; */
+  }
+  
+  .home-activity .hiSlider-wrap{
+    padding-top: 1.19rem;
+  }
+  
+
+  /* 娉ㄥ唽 */
+
+  
+.home-appointment {
+  height: 2.01rem;
+  display: flex;
+  justify-content: center;
+  background-color: #50C2F1;
+}
+
+.home-appointment>.content {
+  height: 1.74rem;
+  margin-top: 0.27rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-appointment>.content>.child {
+  width: 1.99rem;
+  height: 1.74rem;
+}
+
+.home-appointment>.content>.text {
+  font-size: 0.53rem;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 1);
+  line-height: 0.74rem;
+  text-shadow: 0.01rem 0.01rem 0px rgba(9, 61, 152, 1);
+  margin-left: 0.27rem;
+}
+
+.home-appointment>.content>.go-appointment {
+  background-color: #05429A;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.3rem;
+  color: white;
+  margin-left: 0.8rem;
+  width: 2.6rem;
+  height: 0.8rem;
+  border-radius: 0.08rem;
+  cursor: pointer;
+}
+
+.home-appointment-window {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 999;
+}
+
+.home-appointment-window>.content {
+  text-align: center;
+  width:688px;
+  height:538px;
+  background:rgba(255,255,255,1);
+  box-shadow:0px 0px 13px 0px rgba(150,150,150,0.5);
+  border-radius:5px;
+  position: relative;
+}
+.home-appointment-window>.content .content-t{
+  width: 450px;margin: 0 auto;margin-top:36px;
+}
+.home-appointment-window>.content .content-t .el-select{
+  width: 100%;
+}
+.home-appointment-window>.content .content-t .el-form-item__label{
+font-size: 19px;
+}
+.home-appointment-window>.content .content-t  .el-form-item.is-required .el-form-item__label:before{
+  display: none;
+}
+.home-appointment-window>.content .content-t .el-form .el-form-item:last-child .el-form-item__content{
+  margin-left:0!important;margin-top: 30px;
+}
+.home-appointment-window>.content .content-t .el-button--primary{
+  width:313px;
+height:50px;
+background:rgba(34,75,158,1);
+border-radius:5px;padding: 0;
+line-height:50px;text-align: center;
+  background:rgba(34,75,158,1);
+  font-size:19px;
+  font-family:PingFangSC-Regular,PingFang SC;
+  font-weight:400;letter-spacing:2px;
+
+  color:rgba(255,255,255,1);
+}
+.home-appointment-window>.content>.title {
+  margin-top: 45px;
+font-size:25px;
+font-family:PingFangSC-Regular,PingFang SC;
+font-weight:400;
+color:rgba(34,75,158,1);
+line-height:35px;height:35px;
+}
+
+.home-appointment-window>.content>.subtitle {
+  color: #224B9E;
+  font-size:25px;
+  font-weight: 600;
+  margin-top:7px;line-height:35px;height:35px;
+
+}
+
+.home-appointment-window>.content>.go-appointment {
+  margin: 0.79rem;
+  background-color: #224B9E;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.08rem;
+  font-size: 0.30rem;
+  width: 5rem;
+  height: 0.8rem;
+  cursor: pointer;
+}
+
+.home-appointment-window>.content>.close-right, .home-appointment-window>.content-success>.close-right {
+  position: absolute;
+  width: 31px;
+  height:  31px;
+  right: 8px;
+  top: 8px;
+  cursor: pointer;
+}
+
+
+
+.home-appointment-window>.content-success>.header-icon {
+  width: 178px;margin: 0 auto;
+  height: 47px;
+  margin-top: 51px;margin-bottom: 119px;
+}
+
+.home-appointment-window>.content-success {
+  width:688px;
+height:538px;position: relative;
+background:rgba(255,255,255,1);
+box-shadow:0px 0px 13px 0px rgba(150,150,150,0.5);
+border-radius:5px;
+}
+
+.home-appointment-window>.content-success>.result>.title {
+  height:44px;
+  font-size:31px;
+  font-family:PingFangSC-Regular,PingFang SC;
+  font-weight:400;
+  color:rgba(34,75,158,1);
+  line-height:44px;
+  text-align: center;
+}
+
+.home-appointment-window>.content-success>.result>.subtitle {
+  height:26px;
+  font-size:19px;
+  font-family:PingFangSC-Regular,PingFang SC;
+  font-weight:400;
+  color:rgba(51,51,51,1);  text-align: center;
+
+  line-height:26px;margin-top: 26px;
+}
+.home-appointment-window>.content-success>.close-btn {
+  width:313px;margin: 0 auto;margin-top: 117px;
+  height:50px;
+  background:rgba(34,75,158,1);font-size:19px;
+  font-family:PingFangSC-Regular,PingFang SC;
+  font-weight:400;
+  color:rgba(255,255,255,1);
+  letter-spacing:2px;text-align: center;line-height: 50px;
+  border-radius:5px;
+  cursor: pointer;
+}
+
+.home-fooetr-rem{
+  position: absolute;width: 1.1rem;top: 0.9rem;left: -1.5rem;;
+}
